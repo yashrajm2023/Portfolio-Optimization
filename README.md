@@ -1,1 +1,1 @@
-# algo-trading-projects-
+# Creating an Optimal weights Portfolio (Modern Portfolio theory)
